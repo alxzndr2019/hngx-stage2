@@ -1,7 +1,5 @@
 # hngx-stage2
 
-# Express REST API with MongoDB - Setup and Usage Guide
-
 This guide will walk you through setting up and using a simple Express.js REST API with MongoDB for CRUD operations on a "person" resource.
 
 ## Table of Contents
